@@ -39,11 +39,12 @@ h2 {
 }
 
 h1 {
-  font-size: 100px;
+  text-size-adjust: 80%;
 }
 
 h2 {
   font-size: 18px;
+  text-size-adjust: auto;
 }
 
 #title-behind,
